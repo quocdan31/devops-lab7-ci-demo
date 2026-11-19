@@ -1,6 +1,6 @@
 # Lab 7: Triển khai CI Pipeline với Jenkins, Maven, Nexus & SonarQube
 
-**Sinh viên thực hiện:** Mã Quốc Dân  
+**Sinh viên thực hiện:** Ma Quốc Đan  
 **MSSV:** DTC235180041  
 **Môn học:** DevOps  
 **Repository:** [https://github.com/quocdan31/devops-lab7-ci-demo](https://github.com/quocdan31/devops-lab7-ci-demo)

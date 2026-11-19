@@ -1,7 +1,7 @@
 # BÁO CÁO THỰC HÀNH LAB 7: TRIỂN KHAI CI PIPELINE VỚI JENKINS, NEXUS & SONARQUBE
 
 **Học phần:** Thực hành DevOps  
-**Sinh viên thực hiện:** Mã Quốc Dân  
+**Sinh viên thực hiện:** Ma Quốc Đan  
 **Mã số sinh viên (MSSV):** DTC235180041  
 **GitHub Repository:** [https://github.com/quocdan31/devops-lab7-ci-demo](https://github.com/quocdan31/devops-lab7-ci-demo)  
 **Thời gian hoàn thành:** 19/11/2026  
