@@ -1,0 +1,7 @@
+Họ và tên: Mã Quốc Dân
+MSSV: DTC235180041
+Lớp: DevOps
+Email: maquocdan31@gmail.com
+GitHub: https://github.com/quocdan31
+Repository: https://github.com/quocdan31/devops-lab7-ci-demo
+Lab: Lab 7 - Triển khai CI Pipeline với Jenkins, Nexus & SonarQube
